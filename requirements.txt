@@ -1,0 +1,6 @@
+transformers>=4.40.0
+ms-swift
+qwen-vl-utils
+opencv-python
+pandas
+deepspeed>=0.14.0
