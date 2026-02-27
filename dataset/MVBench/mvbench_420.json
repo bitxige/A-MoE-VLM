@@ -1,0 +1,5462 @@
+[
+    {
+        "video": "yt-vceKCgkc9SE_124.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "splashing",
+            "stroking",
+            "swimming",
+            "wetting"
+        ],
+        "answer": "swimming",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "vb-just-married-couple-posing-and-kissing-with-friends-srer-ch1xiuph4gky_4.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "playing fun",
+            "grooming",
+            "marrying",
+            "smiling"
+        ],
+        "answer": "marrying",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-newlyweds-groom-horace-d-taft-bride-mary-jane-badger-taft-in-wedding-video-id834564764_32.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "kissing",
+            "officiating",
+            "smiling",
+            "marrying"
+        ],
+        "answer": "marrying",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "vb-cordless-screwdriver-being-used-brmlhj0egiv7zhv7k_9.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "working",
+            "turning",
+            "drilling",
+            "screwing"
+        ],
+        "answer": "drilling",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "flickr-0-6-8-5-4-3-4-4-4606854344_1.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "hunting",
+            "chewing",
+            "eating",
+            "feeding"
+        ],
+        "answer": "hunting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "vb-Mechanic-is-Repairing-and-Service-Carburetor--9qp0mJ_1.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "repairing",
+            "working",
+            "removing",
+            "tuning"
+        ],
+        "answer": "tuning",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-RAPSx1HKZcs_4.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "drumming",
+            "cracking",
+            "snapping",
+            "rubbing"
+        ],
+        "answer": "snapping",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "flickr-7-8-9-3-8-8-7-5-6978938875_5.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "clinging",
+            "calling",
+            "eating",
+            "feeding"
+        ],
+        "answer": "feeding",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-fnmrlWfWvlM_9.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "bathing",
+            "dunking",
+            "baptizing",
+            "wetting"
+        ],
+        "answer": "baptizing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-7juMxJjxO6M_19.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "feeding",
+            "fencing",
+            "chasing",
+            "scratching"
+        ],
+        "answer": "feeding",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "vb-Man-in-overalls-unscrews-the-screw-and-remove-the-lid-from-the-air-conditioner-JlvKGMI_4.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "turning",
+            "drilling",
+            "removing",
+            "screwing"
+        ],
+        "answer": "screwing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "flickr-2-9-5-5-7-9-4-2-6029557942_1.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "eating",
+            "giving",
+            "sitting",
+            "dining"
+        ],
+        "answer": "dining",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-unloading-wheat-video-id803358844_2.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "emptying",
+            "spilling",
+            "filling",
+            "pouring"
+        ],
+        "answer": "filling",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-_sbZL1qvLK0_965.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "tying",
+            "poking",
+            "stitching",
+            "knitting"
+        ],
+        "answer": "knitting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-woman-applies-concealerhighlighter-pen-to-under-eye-video-id646422955_3.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "removing",
+            "grooming",
+            "massaging",
+            "stroking"
+        ],
+        "answer": "grooming",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-large-arapaima-under-water-video-id592036990_6.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "floating",
+            "swimming",
+            "resting",
+            "submerging"
+        ],
+        "answer": "swimming",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-house-minority-leader-nancy-pelosi-of-california-responds-to-a-on-video-id526772926_192.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "pointing",
+            "adult female speaking",
+            "asking",
+            "speaking"
+        ],
+        "answer": "asking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-rsb3kYoAAI4_58.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "biting",
+            "licking",
+            "tickling",
+            "chasing"
+        ],
+        "answer": "licking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-black-bear-eating-a-fish-video-id117972862_12.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "biting",
+            "feeding",
+            "tearing",
+            "chewing"
+        ],
+        "answer": "biting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-aerial-view-of-man-taken-into-custody-after-bank-robbery-bomb-threat-video-id494655522_15.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "blocking",
+            "pulling",
+            "pushing",
+            "arresting"
+        ],
+        "answer": "arresting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "vine-taekwondo-breaking-videoshop-MTY3gwLY5Yq_1.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "breaking",
+            "attacking",
+            "dropping",
+            "kicking"
+        ],
+        "answer": "breaking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-E_lO4MUXNIY_5.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "snapping",
+            "sitting",
+            "drumming",
+            "clapping"
+        ],
+        "answer": "clapping",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-xdWPDygPcWc_21.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "giving",
+            "driving",
+            "walking",
+            "hitchhiking"
+        ],
+        "answer": "hitchhiking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-8iag2AIRTtQ_7.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "dressing",
+            "tying",
+            "joining",
+            "placing"
+        ],
+        "answer": "tying",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "flickr-7-2-4-4-8-2-6-0-16072448260_24.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "painting",
+            "floating",
+            "flying",
+            "snowing"
+        ],
+        "answer": "flying",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-little-girl-preparing-muffins-video-id479958694_9.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "dipping",
+            "baking",
+            "pouring",
+            "filling"
+        ],
+        "answer": "baking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-corn-video-id472532799_9.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "peeling",
+            "removing",
+            "scrubbing",
+            "rinsing"
+        ],
+        "answer": "peeling",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-grilled-shrimps-in-fire-slow-motion-video-id621306510_26.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "grilling",
+            "flicking",
+            "frying",
+            "smoking"
+        ],
+        "answer": "flicking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-Wuynla8cLS8_7.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "running",
+            "playing sports",
+            "punting",
+            "kicking"
+        ],
+        "answer": "punting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-82gy_eaK6N4_35.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "falling",
+            "raining",
+            "flipping",
+            "bouncing"
+        ],
+        "answer": "raining",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-four-businessmen-race-on-multicoloured-space-hoppers-on-the-floor-of-video-iddv1423014_4.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "balancing",
+            "crouching",
+            "jumping",
+            "plunging"
+        ],
+        "answer": "plunging",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-OI9CkKF8zM4_7.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "sneezing",
+            "shaking",
+            "squinting",
+            "winking"
+        ],
+        "answer": "squinting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-winter-sunset-with-woman-on-smart-phone-video-id638424790_8.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "gripping",
+            "covering",
+            "telephoning",
+            "calling"
+        ],
+        "answer": "gripping",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-jHRf16aNOxk_198.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "mopping",
+            "vacuuming",
+            "cleaning",
+            "dusting"
+        ],
+        "answer": "mopping",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-secretary-of-state-edward-stettinius-deplanes-from-usaaf-plane-shakes-video-id638643462_15.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "waving",
+            "standing",
+            "saluting",
+            "guarding"
+        ],
+        "answer": "guarding",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-white-beach-afternoon-video-id494935240_3.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "blowing",
+            "sailing",
+            "swimming",
+            "competing"
+        ],
+        "answer": "sailing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-gDDZcSyRdPs_342.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "extinguishing",
+            "destroying",
+            "burning",
+            "spilling"
+        ],
+        "answer": "extinguishing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-german-boxer-playing-poker-video-id163958717_1.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "competing",
+            "licking",
+            "gambling",
+            "spreading"
+        ],
+        "answer": "gambling",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "flickr-3-2-6-11671834326_90.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "climbing",
+            "rising",
+            "ascending",
+            "descending"
+        ],
+        "answer": "ascending",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-young-woman-exercises-for-the-hips-video-id598749824_8.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "standing",
+            "twisting",
+            "imitating",
+            "stretching"
+        ],
+        "answer": "stretching",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-OFAMPnVTb8E_608.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "interviewing",
+            "discussing",
+            "adult male speaking",
+            "swerving"
+        ],
+        "answer": "discussing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-hiker-assists-teammate-on-mountain-top-video-id576881662_3.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "giving",
+            "reaching",
+            "descending",
+            "rising"
+        ],
+        "answer": "giving",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-MML5z_ITWG8_130.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "brushing",
+            "tattooing",
+            "poking",
+            "painting"
+        ],
+        "answer": "brushing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-7Gdd_3zStck_37.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "descending",
+            "stacking",
+            "flipping",
+            "loading"
+        ],
+        "answer": "stacking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-police-line-do-not-cross-video-id129878160_1.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "fencing",
+            "dusting",
+            "guarding",
+            "taping"
+        ],
+        "answer": "guarding",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-black-cat-tearing-apart-toy-mouse-video-id467715164_4.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "gripping",
+            "pulling",
+            "biting",
+            "clawing"
+        ],
+        "answer": "clawing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "LT7u09z55Qc_33.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "painting",
+            "grinning",
+            "sketching",
+            "smiling"
+        ],
+        "answer": "sketching",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-young-woman-hiking-reaches-mountain-top-outstretches-arms-video-id641633826_9.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "balancing",
+            "raising",
+            "waving",
+            "reaching"
+        ],
+        "answer": "reaching",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-boy-balancing-milk-bottle-video-id581793286_13.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "balancing",
+            "chewing",
+            "feeding",
+            "eating"
+        ],
+        "answer": "balancing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-Xi_spA6xki0_35.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "dropping",
+            "snowing",
+            "raining",
+            "storming"
+        ],
+        "answer": "raining",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-doB4VweyiMo_236.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "baptizing",
+            "coughing",
+            "singing",
+            "adult female singing"
+        ],
+        "answer": "baptizing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-road-cyclist-in-a-race-through-the-city-video-id506019700_11.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "steering",
+            "riding",
+            "playing sports",
+            "pedaling"
+        ],
+        "answer": "playing sports",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-ASV8gmpEgrY_52.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "flicking",
+            "slapping",
+            "poking",
+            "peeling"
+        ],
+        "answer": "poking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-j4dBeaFZAj4_4.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "splashing",
+            "wetting",
+            "sliding",
+            "child speaking"
+        ],
+        "answer": "sliding",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "vine-feastings-miscafujin-winking-tutorial-h2W9zbWlXeW_3.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "whistling",
+            "speaking",
+            "winking",
+            "squinting"
+        ],
+        "answer": "winking",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-bPfFtuc3XNs_209.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "wrapping",
+            "taping",
+            "rubbing",
+            "massaging"
+        ],
+        "answer": "taping",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "yt-VeuMqUxbGhA_71.mp4",
+        "question": "Which one of these descriptions correctly matches the actions in the video?",
+        "candidates": [
+            "running",
+            "jogging",
+            "sprinting",
+            "bicycling"
+        ],
+        "answer": "sprinting",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-man-sitting-at-a-bar-with-another-patron-opens-an-envelope-full-of-video-id573832645_10.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "buying",
+            "closing",
+            "opening",
+            "wrapping"
+        ],
+        "answer": "buying",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "flickr-0-8-5-6-8-5-1-1-21808568511_5.mp4",
+        "question": "What is the action performed by the person in the video?",
+        "candidates": [
+            "flowing",
+            "draining",
+            "pouring",
+            "descending"
+        ],
+        "answer": "draining",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "getty-white-beach-video-id493104796_11.mp4",
+        "question": "What activity does the video depict?",
+        "candidates": [
+            "sailing",
+            "flowing",
+            "floating",
+            "boating"
+        ],
+        "answer": "sailing",
+        "task_type": "Fine-grained Action"
+    },
+    {
+        "video": "FL6DF.mp4",
+        "question": "What happened before the person put down the laptop?",
+        "candidates": [
+            "Washed the window.",
+            "Put down the shoe.",
+            "Closed the door.",
+            "Threw the pillow."
+        ],
+        "answer": "Threw the pillow.",
+        "start": 10.3,
+        "end": 19.7,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "JLGLU.mp4",
+        "question": "What happened before the person closed the door?",
+        "candidates": [
+            "Put down the box.",
+            "Took the paper/notebook.",
+            "Took the towel.",
+            "Sat at the table."
+        ],
+        "answer": "Took the towel.",
+        "start": 15.4,
+        "end": 28.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "GLGQJ.mp4",
+        "question": "What happened after the person took the phone/camera?",
+        "candidates": [
+            "Took the book.",
+            "Put down the pillow.",
+            "Closed the window.",
+            "Took the food."
+        ],
+        "answer": "Closed the window.",
+        "start": 19.5,
+        "end": 29.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "KU656.mp4",
+        "question": "What happened after the person lied on the bed?",
+        "candidates": [
+            "Washed the dish.",
+            "Opened the laptop.",
+            "Put down the pillow.",
+            "Took the towel."
+        ],
+        "answer": "Took the towel.",
+        "start": 0.0,
+        "end": 12.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "0HGNK.mp4",
+        "question": "What happened after the person sat at the table?",
+        "candidates": [
+            "Put down the broom.",
+            "Put down the box.",
+            "Opened the door.",
+            "Closed the closet/cabinet."
+        ],
+        "answer": "Put down the box.",
+        "start": 0.0,
+        "end": 13.1,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "SUI1X.mp4",
+        "question": "What happened after the person sat on the floor?",
+        "candidates": [
+            "Put down the book.",
+            "Opened the bag.",
+            "Washed the clothes.",
+            "Took the picture."
+        ],
+        "answer": "Opened the bag.",
+        "start": 0.0,
+        "end": 10.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "V3RAX.mp4",
+        "question": "What happened before the person took the clothes?",
+        "candidates": [
+            "Washed the clothes.",
+            "Threw the blanket.",
+            "Took the towel.",
+            "Opened the bag."
+        ],
+        "answer": "Threw the blanket.",
+        "start": 7.1,
+        "end": 21.2,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "8G9A9.mp4",
+        "question": "What happened before the person held the phone/camera?",
+        "candidates": [
+            "Took the laptop.",
+            "Sat on the sofa/couch.",
+            "Put down the shoe.",
+            "Put down the cup/glass/bottle."
+        ],
+        "answer": "Took the laptop.",
+        "start": 1.9,
+        "end": 14.7,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "ZVRBL.mp4",
+        "question": "What happened after the person tidied up the table?",
+        "candidates": [
+            "Sat at the table.",
+            "Put down the dish.",
+            "Threw the towel.",
+            "Took the phone/camera."
+        ],
+        "answer": "Put down the dish.",
+        "start": 0.0,
+        "end": 16.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "RNLTR.mp4",
+        "question": "What happened before the person sat on the sofa/couch?",
+        "candidates": [
+            "Took the box.",
+            "Took the dish.",
+            "Threw the pillow.",
+            "Put down the shoe."
+        ],
+        "answer": "Put down the shoe.",
+        "start": 11.6,
+        "end": 24.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "MD6P2.mp4",
+        "question": "What happened before the person held the medicine?",
+        "candidates": [
+            "Took the dish.",
+            "Opened the box.",
+            "Threw the box.",
+            "Washed the window."
+        ],
+        "answer": "Opened the box.",
+        "start": 5.0,
+        "end": 22.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "TOOYI.mp4",
+        "question": "What happened after the person put down the towel?",
+        "candidates": [
+            "Opened the bag.",
+            "Closed the box.",
+            "Took the paper/notebook.",
+            "Closed the refrigerator."
+        ],
+        "answer": "Closed the box.",
+        "start": 4.6,
+        "end": 19.1,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "V54TI.mp4",
+        "question": "What happened after the person lied on the bed?",
+        "candidates": [
+            "Threw the pillow.",
+            "Took the book.",
+            "Put down the picture.",
+            "Closed the box."
+        ],
+        "answer": "Put down the picture.",
+        "start": 0.0,
+        "end": 14.1,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "0OSJY.mp4",
+        "question": "What happened after the person sat on the bed?",
+        "candidates": [
+            "Took the phone/camera.",
+            "Opened the window.",
+            "Took the pillow.",
+            "Put down the broom."
+        ],
+        "answer": "Put down the broom.",
+        "start": 0.0,
+        "end": 14.7,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "VKXLL.mp4",
+        "question": "What happened after the person opened the box?",
+        "candidates": [
+            "Threw the clothes.",
+            "Put down the food.",
+            "Sat at the table.",
+            "Put down the paper/notebook."
+        ],
+        "answer": "Put down the paper/notebook.",
+        "start": 22.1,
+        "end": 36.2,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "3064K.mp4",
+        "question": "What happened before the person put down the clothes?",
+        "candidates": [
+            "Opened the window.",
+            "Tidied up the closet/cabinet.",
+            "Took the food.",
+            "Tidied up the blanket."
+        ],
+        "answer": "Tidied up the blanket.",
+        "start": 3.0,
+        "end": 18.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "NV4FC.mp4",
+        "question": "What happened after the person put down the clothes?",
+        "candidates": [
+            "Tidied up the blanket.",
+            "Threw the shoe.",
+            "Opened the door.",
+            "Put down the paper/notebook."
+        ],
+        "answer": "Threw the shoe.",
+        "start": 5.5,
+        "end": 21.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "E002I.mp4",
+        "question": "What happened before the person closed the door?",
+        "candidates": [
+            "Lied on the bed.",
+            "Took the cup/glass/bottle.",
+            "Put down the blanket.",
+            "Closed the closet/cabinet."
+        ],
+        "answer": "Lied on the bed.",
+        "start": 4.7,
+        "end": 19.7,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "GMMVC.mp4",
+        "question": "What happened before the person closed the book?",
+        "candidates": [
+            "Put down the phone/camera.",
+            "Ate the medicine.",
+            "Put down the blanket.",
+            "Tidied up the table."
+        ],
+        "answer": "Put down the blanket.",
+        "start": 0.0,
+        "end": 16.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "EUJK0.mp4",
+        "question": "What happened after the person put down the laptop?",
+        "candidates": [
+            "Sat at the table.",
+            "Took the broom.",
+            "Took the book.",
+            "Put down the phone/camera."
+        ],
+        "answer": "Took the book.",
+        "start": 17.1,
+        "end": 26.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "OKYYQ.mp4",
+        "question": "What happened after the person held the book?",
+        "candidates": [
+            "Put down the bag.",
+            "Closed the book.",
+            "Put down the paper/notebook.",
+            "Opened the door."
+        ],
+        "answer": "Put down the paper/notebook.",
+        "start": 0.0,
+        "end": 10.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "8DL54.mp4",
+        "question": "What happened before the person closed the refrigerator?",
+        "candidates": [
+            "Put down the box.",
+            "Put down the book.",
+            "Put down the dish.",
+            "Threw the clothes."
+        ],
+        "answer": "Put down the dish.",
+        "start": 17.1,
+        "end": 27.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "OEE36.mp4",
+        "question": "What happened before the person closed the box?",
+        "candidates": [
+            "Put down the cup/glass/bottle.",
+            "Put down the towel.",
+            "Threw the box.",
+            "Sat on the sofa/couch."
+        ],
+        "answer": "Put down the towel.",
+        "start": 21.1,
+        "end": 36.5,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "UEP20.mp4",
+        "question": "What happened before the person closed the closet/cabinet?",
+        "candidates": [
+            "Took the towel.",
+            "Put down the phone/camera.",
+            "Took the sandwich.",
+            "Took the dish."
+        ],
+        "answer": "Took the sandwich.",
+        "start": 17.9,
+        "end": 25.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "EO6OI.mp4",
+        "question": "What happened after the person washed the table?",
+        "candidates": [
+            "Threw the clothes.",
+            "Washed the cup/glass/bottle.",
+            "Took the phone/camera.",
+            "Put down the towel."
+        ],
+        "answer": "Put down the towel.",
+        "start": 18.6,
+        "end": 28.7,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "NW0KT.mp4",
+        "question": "What happened after the person opened the book?",
+        "candidates": [
+            "Took the paper/notebook.",
+            "Put down the food.",
+            "Threw the clothes.",
+            "Took the dish."
+        ],
+        "answer": "Took the paper/notebook.",
+        "start": 4.9,
+        "end": 13.9,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "RKGG5.mp4",
+        "question": "What happened before the person lied on the sofa/couch?",
+        "candidates": [
+            "Took the pillow.",
+            "Opened the door.",
+            "Took the phone/camera.",
+            "Threw the box."
+        ],
+        "answer": "Took the pillow.",
+        "start": 7.0,
+        "end": 21.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "EDVAM.mp4",
+        "question": "What happened before the person closed the window?",
+        "candidates": [
+            "Put down the food.",
+            "Washed the window.",
+            "Sat on the sofa/couch.",
+            "Opened the door."
+        ],
+        "answer": "Sat on the sofa/couch.",
+        "start": 0.0,
+        "end": 16.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "YB67Z.mp4",
+        "question": "What happened after the person opened the box?",
+        "candidates": [
+            "Put down the picture.",
+            "Tidied up the table.",
+            "Lied on the floor.",
+            "Took the clothes."
+        ],
+        "answer": "Tidied up the table.",
+        "start": 5.4,
+        "end": 19.1,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "EY6P4.mp4",
+        "question": "What happened before the person watched at the book?",
+        "candidates": [
+            "Tidied up the table.",
+            "Took the phone/camera.",
+            "Opened the closet/cabinet.",
+            "Washed the table."
+        ],
+        "answer": "Opened the closet/cabinet.",
+        "start": 0.5,
+        "end": 11.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "HCM5Y.mp4",
+        "question": "What happened before the person opened the door?",
+        "candidates": [
+            "Put down the paper/notebook.",
+            "Tidied up the blanket.",
+            "Sat on the floor.",
+            "Took the shoe."
+        ],
+        "answer": "Sat on the floor.",
+        "start": 0.0,
+        "end": 18.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "86GSE.mp4",
+        "question": "What happened before the person sat on the sofa/couch?",
+        "candidates": [
+            "Closed the refrigerator.",
+            "Put down the towel.",
+            "Took the shoe.",
+            "Sat on the table."
+        ],
+        "answer": "Took the shoe.",
+        "start": 9.6,
+        "end": 20.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "CR5G1.mp4",
+        "question": "What happened after the person sat on the floor?",
+        "candidates": [
+            "Took the bag.",
+            "Took the phone/camera.",
+            "Took the blanket.",
+            "Took the box."
+        ],
+        "answer": "Took the blanket.",
+        "start": 10.9,
+        "end": 18.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "JBY4E.mp4",
+        "question": "What happened before the person took the dish?",
+        "candidates": [
+            "Put down the food.",
+            "Put down the box.",
+            "Took the paper/notebook.",
+            "Put down the blanket."
+        ],
+        "answer": "Put down the blanket.",
+        "start": 2.8,
+        "end": 10.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "56XKK.mp4",
+        "question": "What happened before the person opened the door?",
+        "candidates": [
+            "Tidied up the clothes.",
+            "Put down the bag.",
+            "Put down the food.",
+            "Opened the book."
+        ],
+        "answer": "Put down the bag.",
+        "start": 4.3,
+        "end": 20.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "4P13T.mp4",
+        "question": "What happened before the person put down the book?",
+        "candidates": [
+            "Ate the medicine.",
+            "Took the bag.",
+            "Tidied up the blanket.",
+            "Opened the bag."
+        ],
+        "answer": "Took the bag.",
+        "start": 0.0,
+        "end": 17.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "CH8XJ.mp4",
+        "question": "What happened after the person opened the closet/cabinet?",
+        "candidates": [
+            "Put down the towel.",
+            "Threw the shoe.",
+            "Closed the door.",
+            "Lied on the bed."
+        ],
+        "answer": "Threw the shoe.",
+        "start": 13.5,
+        "end": 25.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "1L5D3.mp4",
+        "question": "What happened before the person held the phone/camera?",
+        "candidates": [
+            "Tidied up the blanket.",
+            "Took the cup/glass/bottle.",
+            "Tidied up the closet/cabinet.",
+            "Put down the pillow."
+        ],
+        "answer": "Put down the pillow.",
+        "start": 13.6,
+        "end": 32.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "M7BD4.mp4",
+        "question": "What happened after the person held the laptop?",
+        "candidates": [
+            "Put down the paper/notebook.",
+            "Sat on the bed.",
+            "Threw the blanket.",
+            "Opened the bag."
+        ],
+        "answer": "Put down the paper/notebook.",
+        "start": 0.0,
+        "end": 19.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "AK9IB.mp4",
+        "question": "What happened after the person opened the box?",
+        "candidates": [
+            "Put down the dish.",
+            "Put down the shoe.",
+            "Sat on the sofa/couch.",
+            "Put down the food."
+        ],
+        "answer": "Put down the shoe.",
+        "start": 24.3,
+        "end": 31.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "8IPWO.mp4",
+        "question": "What happened after the person drank from the cup/glass/bottle?",
+        "candidates": [
+            "Put down the laptop.",
+            "Put down the cup/glass/bottle.",
+            "Put down the phone/camera.",
+            "Opened the book."
+        ],
+        "answer": "Opened the book.",
+        "start": 1.8,
+        "end": 14.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "S572F.mp4",
+        "question": "What happened before the person washed the clothes?",
+        "candidates": [
+            "Put down the phone/camera.",
+            "Put down the clothes.",
+            "Put down the towel.",
+            "Washed the window."
+        ],
+        "answer": "Put down the towel.",
+        "start": 0.6,
+        "end": 16.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "8XXNK.mp4",
+        "question": "What happened after the person sat on the sofa/couch?",
+        "candidates": [
+            "Opened the box.",
+            "Opened the door.",
+            "Sat on the floor.",
+            "Put down the clothes."
+        ],
+        "answer": "Opened the box.",
+        "start": 0.0,
+        "end": 9.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "1ZBUS.mp4",
+        "question": "What happened before the person held the sandwich?",
+        "candidates": [
+            "Sat at the table.",
+            "Put down the shoe.",
+            "Opened the laptop.",
+            "Ate the medicine."
+        ],
+        "answer": "Sat at the table.",
+        "start": 5.2,
+        "end": 21.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "YOCI8.mp4",
+        "question": "What happened after the person held the blanket?",
+        "candidates": [
+            "Tidied up the table.",
+            "Took the dish.",
+            "Opened the window.",
+            "Took the pillow."
+        ],
+        "answer": "Tidied up the table.",
+        "start": 0.0,
+        "end": 8.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "UIERL.mp4",
+        "question": "What happened before the person held the dish?",
+        "candidates": [
+            "Closed the door.",
+            "Put down the food.",
+            "Closed the refrigerator.",
+            "Took the food."
+        ],
+        "answer": "Took the food.",
+        "start": 13.5,
+        "end": 25.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "1L5D3.mp4",
+        "question": "What happened before the person took the phone/camera?",
+        "candidates": [
+            "Took the clothes.",
+            "Put down the cup/glass/bottle.",
+            "Put down the pillow.",
+            "Opened the window."
+        ],
+        "answer": "Put down the pillow.",
+        "start": 13.6,
+        "end": 32.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "HOI88.mp4",
+        "question": "What happened after the person sat at the table?",
+        "candidates": [
+            "Opened the book.",
+            "Opened the refrigerator.",
+            "Took the clothes.",
+            "Sat on the sofa/couch."
+        ],
+        "answer": "Sat on the sofa/couch.",
+        "start": 2.6,
+        "end": 21.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "I562C.mp4",
+        "question": "What happened after the person closed the door?",
+        "candidates": [
+            "Closed the box.",
+            "Put down the book.",
+            "Took the dish.",
+            "Took the picture."
+        ],
+        "answer": "Took the dish.",
+        "start": 8.6,
+        "end": 19.9,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "EFR6I.mp4",
+        "question": "What happened before the person watched at the book?",
+        "candidates": [
+            "Closed the window.",
+            "Took the paper/notebook.",
+            "Took the book.",
+            "Threw the shoe."
+        ],
+        "answer": "Took the paper/notebook.",
+        "start": 16.9,
+        "end": 28.2,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "52MV9.mp4",
+        "question": "What happened after the person held the sandwich?",
+        "candidates": [
+            "Put down the dish.",
+            "Put down the food.",
+            "Put down the towel.",
+            "Closed the refrigerator."
+        ],
+        "answer": "Put down the dish.",
+        "start": 7.9,
+        "end": 21.4,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "3CLVI.mp4",
+        "question": "What happened before the person threw the clothes?",
+        "candidates": [
+            "Closed the closet/cabinet.",
+            "Put down the towel.",
+            "Put down the paper/notebook.",
+            "Ate the sandwich."
+        ],
+        "answer": "Closed the closet/cabinet.",
+        "start": 18.9,
+        "end": 29.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "T1CQE.mp4",
+        "question": "What happened after the person opened the bag?",
+        "candidates": [
+            "Sat at the table.",
+            "Tidied up the closet/cabinet.",
+            "Took the laptop.",
+            "Put down the cup/glass/bottle."
+        ],
+        "answer": "Took the laptop.",
+        "start": 18.9,
+        "end": 29.9,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "FQS7O.mp4",
+        "question": "What happened after the person sat at the table?",
+        "candidates": [
+            "Put down the cup/glass/bottle.",
+            "Opened the box.",
+            "Opened the window.",
+            "Closed the book."
+        ],
+        "answer": "Closed the book.",
+        "start": 0.0,
+        "end": 11.5,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "F6A4W.mp4",
+        "question": "What happened after the person drank from the cup/glass/bottle?",
+        "candidates": [
+            "Threw the shoe.",
+            "Took the broom.",
+            "Put down the shoe.",
+            "Sat on the bed."
+        ],
+        "answer": "Threw the shoe.",
+        "start": 4.3,
+        "end": 15.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "UDGRS.mp4",
+        "question": "What happened before the person closed the book?",
+        "candidates": [
+            "Put down the phone/camera.",
+            "Sat at the table.",
+            "Put down the cup/glass/bottle.",
+            "Put down the broom."
+        ],
+        "answer": "Put down the phone/camera.",
+        "start": 19.9,
+        "end": 27.6,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "BE51K.mp4",
+        "question": "What happened after the person put down the bag?",
+        "candidates": [
+            "Closed the window.",
+            "Closed the closet/cabinet.",
+            "Sat on the bed.",
+            "Closed the book."
+        ],
+        "answer": "Sat on the bed.",
+        "start": 0.0,
+        "end": 19.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "TIPFG.mp4",
+        "question": "What happened before the person closed the box?",
+        "candidates": [
+            "Put down the food.",
+            "Threw the towel.",
+            "Took the shoe.",
+            "Opened the closet/cabinet."
+        ],
+        "answer": "Took the shoe.",
+        "start": 5.3,
+        "end": 16.3,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "74DPG.mp4",
+        "question": "What happened after the person drank from the cup/glass/bottle?",
+        "candidates": [
+            "Lied on the floor.",
+            "Took the broom.",
+            "Put down the dish.",
+            "Opened the bag."
+        ],
+        "answer": "Put down the dish.",
+        "start": 20.7,
+        "end": 40.0,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "DPLMM.mp4",
+        "question": "What happened before the person took the pillow?",
+        "candidates": [
+            "Sat on the floor.",
+            "Threw the blanket.",
+            "Threw the shoe.",
+            "Closed the door."
+        ],
+        "answer": "Sat on the floor.",
+        "start": 0.0,
+        "end": 12.8,
+        "task_type": "Action Sequence"
+    },
+    {
+        "video": "D8OSC.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Throw the food.",
+            "Take the box.",
+            "Put down the broom.",
+            "Close the closet/cabinet."
+        ],
+        "answer": "Put down the broom.",
+        "start": 0.0,
+        "end": 6.775,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "J6TVB.mp4",
+        "question": "What will the person do next with the dish?",
+        "candidates": [
+            "Wash.",
+            "Put down.",
+            "Hold.",
+            "Take."
+        ],
+        "answer": "Put down.",
+        "start": 0.0,
+        "end": 13.0,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "N2GFQ.mp4",
+        "question": "What will the person do next with the sofa/couch?",
+        "candidates": [
+            "Take.",
+            "Sit on.",
+            "Tidy up.",
+            "Lie on."
+        ],
+        "answer": "Lie on.",
+        "start": 14.0,
+        "end": 34.8,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "IFQS1.mp4",
+        "question": "What will the person do next with the blanket?",
+        "candidates": [
+            "Throw.",
+            "Hold.",
+            "Tidy up.",
+            "Put down."
+        ],
+        "answer": "Put down.",
+        "start": 0.4,
+        "end": 9.85,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "E7Q3R.mp4",
+        "question": "What will the person do next with the cup/glass/bottle?",
+        "candidates": [
+            "Put down.",
+            "Wash.",
+            "Close.",
+            "Take."
+        ],
+        "answer": "Put down.",
+        "start": 0.0,
+        "end": 7.0,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "VWAEL.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Eat the medicine.",
+            "Take the box.",
+            "Take the book.",
+            "Take the dish."
+        ],
+        "answer": "Take the box.",
+        "start": 6.2,
+        "end": 26.15,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "432NL.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Eat the medicine.",
+            "Put down the towel.",
+            "Put down the paper/notebook.",
+            "Open the refrigerator."
+        ],
+        "answer": "Eat the medicine.",
+        "start": 13.6,
+        "end": 26.825000000000003,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "Z6HEA.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Sit on the floor.",
+            "Open the bag.",
+            "Lie on the bed.",
+            "Tidy up the table."
+        ],
+        "answer": "Sit on the floor.",
+        "start": 0.0,
+        "end": 10.875,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "ATNBT.mp4",
+        "question": "What will the person do next with the floor?",
+        "candidates": [
+            "Put down.",
+            "Lie on.",
+            "Sit on.",
+            "Eat."
+        ],
+        "answer": "Sit on.",
+        "start": 0.0,
+        "end": 29.049999999999997,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "2U0QT.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Open the closet/cabinet.",
+            "Open the door.",
+            "Close the closet/cabinet.",
+            "Tidy up the clothes."
+        ],
+        "answer": "Close the closet/cabinet.",
+        "start": 10.0,
+        "end": 21.575,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "ZOL0R.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Close the laptop.",
+            "Sit on the table.",
+            "Throw the clothes.",
+            "Take the dish."
+        ],
+        "answer": "Throw the clothes.",
+        "start": 0.1,
+        "end": 10.825,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "2ZXJ5.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the bag.",
+            "Throw the bag.",
+            "Open the door.",
+            "Put down the pillow."
+        ],
+        "answer": "Put down the pillow.",
+        "start": 0.0,
+        "end": 13.8,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "1O1JS.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Close the box.",
+            "Put down the towel.",
+            "Take the laptop.",
+            "Close the closet/cabinet."
+        ],
+        "answer": "Put down the towel.",
+        "start": 0.0,
+        "end": 27.375,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "P2UBC.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Lie on the sofa/couch.",
+            "Put down the bag.",
+            "Take the shoe.",
+            "Take the towel."
+        ],
+        "answer": "Take the shoe.",
+        "start": 0.0,
+        "end": 17.525000000000002,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "0BZAD.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the shoe.",
+            "Take the food.",
+            "Close the door.",
+            "Put down the cup/glass/bottle."
+        ],
+        "answer": "Take the food.",
+        "start": 7.5,
+        "end": 25.825000000000003,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "FL6DF.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Throw the shoe.",
+            "Put down the laptop.",
+            "Put down the dish.",
+            "Open the bag."
+        ],
+        "answer": "Put down the laptop.",
+        "start": 6.0,
+        "end": 15.875,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "5INX3.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the clothes.",
+            "Put down the bag.",
+            "Sit on the table.",
+            "Take the book."
+        ],
+        "answer": "Take the clothes.",
+        "start": 0.0,
+        "end": 34.6,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "3XKBC.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Open the laptop.",
+            "Lie on the sofa/couch.",
+            "Close the box.",
+            "Take the phone/camera."
+        ],
+        "answer": "Open the laptop.",
+        "start": 6.8,
+        "end": 21.125,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "D1NT7.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the box.",
+            "Throw the food.",
+            "Tidy up the towel.",
+            "Sit on the sofa/couch."
+        ],
+        "answer": "Take the box.",
+        "start": 3.2,
+        "end": 12.25,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "NLWBW.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Wash the cup/glass/bottle.",
+            "Take the bag.",
+            "Throw the pillow.",
+            "Take the food."
+        ],
+        "answer": "Take the bag.",
+        "start": 0.0,
+        "end": 7.3500000000000005,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "9O0HH.mp4",
+        "question": "What will the person do next with the food?",
+        "candidates": [
+            "Put down.",
+            "Hold.",
+            "Take.",
+            "Throw."
+        ],
+        "answer": "Put down.",
+        "start": 1.5,
+        "end": 24.925,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "UEP20.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Throw the box.",
+            "Take the bag.",
+            "Lie on the bed.",
+            "Sit on the floor."
+        ],
+        "answer": "Lie on the bed.",
+        "start": 4.1,
+        "end": 16.725,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "WLA52.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the cup/glass/bottle.",
+            "Close the box.",
+            "Put down the blanket.",
+            "Take the pillow."
+        ],
+        "answer": "Put down the blanket.",
+        "start": 0.6,
+        "end": 17.6,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "CJ58B.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Open the box.",
+            "Take the book.",
+            "Tidy up the broom.",
+            "Put down the bag."
+        ],
+        "answer": "Put down the bag.",
+        "start": 0.0,
+        "end": 21.025,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "IHSRC.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the picture.",
+            "Put down the phone/camera.",
+            "Hold the box.",
+            "Take the blanket."
+        ],
+        "answer": "Take the picture.",
+        "start": 0.0,
+        "end": 20.45,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "UYZKX.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Tidy up the table.",
+            "Take the sandwich.",
+            "Throw the blanket.",
+            "Open the bag."
+        ],
+        "answer": "Throw the blanket.",
+        "start": 2.9,
+        "end": 22.625,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "VS7VS.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Wash the cup/glass/bottle.",
+            "Put down the sandwich.",
+            "Put down the shoe.",
+            "Throw the book."
+        ],
+        "answer": "Throw the book.",
+        "start": 3.1,
+        "end": 19.575000000000003,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "I713Z.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Tidy up the blanket.",
+            "Open the refrigerator.",
+            "Open the closet/cabinet.",
+            "Throw the box."
+        ],
+        "answer": "Open the refrigerator.",
+        "start": 3.4,
+        "end": 20.724999999999998,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "AJTDO.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Tidy up the clothes.",
+            "Eat the sandwich.",
+            "Put down the phone/camera.",
+            "Throw the pillow."
+        ],
+        "answer": "Throw the pillow.",
+        "start": 0.0,
+        "end": 21.925,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "7ZCXJ.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the bag.",
+            "Hold the box.",
+            "Throw the blanket.",
+            "Sit on the sofa/couch."
+        ],
+        "answer": "Throw the blanket.",
+        "start": 0.0,
+        "end": 23.15,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "5XKVP.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Open the closet/cabinet.",
+            "Wash the clothes.",
+            "Take the book.",
+            "Open the book."
+        ],
+        "answer": "Take the book.",
+        "start": 0.0,
+        "end": 9.125,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "TK76G.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the clothes.",
+            "Lie on the floor.",
+            "Sit on the table.",
+            "Put down the towel."
+        ],
+        "answer": "Put down the towel.",
+        "start": 0.0,
+        "end": 12.100000000000001,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "RJCNV.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Sit on the floor.",
+            "Put down the cup/glass/bottle.",
+            "Take the book.",
+            "Open the book."
+        ],
+        "answer": "Open the book.",
+        "start": 3.2,
+        "end": 13.625,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "8LAK1.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Eat the medicine.",
+            "Take the shoe.",
+            "Take the clothes.",
+            "Throw the food."
+        ],
+        "answer": "Take the shoe.",
+        "start": 4.4,
+        "end": 27.049999999999997,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "EO6OI.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the clothes.",
+            "Put down the clothes.",
+            "Put down the broom.",
+            "Put down the picture."
+        ],
+        "answer": "Put down the broom.",
+        "start": 25.2,
+        "end": 41.875,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "V3RAX.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Sit at the table.",
+            "Close the window.",
+            "Take the cup/glass/bottle.",
+            "Eat the sandwich."
+        ],
+        "answer": "Eat the sandwich.",
+        "start": 10.6,
+        "end": 22.85,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "EBTD6.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Open the door.",
+            "Close the door.",
+            "Sit on the table.",
+            "Put down the sandwich."
+        ],
+        "answer": "Put down the sandwich.",
+        "start": 14.2,
+        "end": 21.150000000000002,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "75RPN.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the cup/glass/bottle.",
+            "Tidy up the blanket.",
+            "Take the pillow.",
+            "Put down the dish."
+        ],
+        "answer": "Take the pillow.",
+        "start": 0.7,
+        "end": 11.85,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "3ND23.mp4",
+        "question": "What will the person do next with the blanket?",
+        "candidates": [
+            "Sit at.",
+            "Throw.",
+            "Tidy up.",
+            "Put down."
+        ],
+        "answer": "Put down.",
+        "start": 1.4,
+        "end": 12.4,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "727IZ.mp4",
+        "question": "What will the person do next with the table?",
+        "candidates": [
+            "Close.",
+            "Sit at.",
+            "Tidy up.",
+            "Wash."
+        ],
+        "answer": "Sit at.",
+        "start": 10.0,
+        "end": 16.075,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "G6ZOB.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the book.",
+            "Put down the cup/glass/bottle.",
+            "Open the door.",
+            "Close the door."
+        ],
+        "answer": "Put down the book.",
+        "start": 7.0,
+        "end": 27.075,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "EDVAM.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the paper/notebook.",
+            "Hold the phone/camera.",
+            "Throw the blanket.",
+            "Close the window."
+        ],
+        "answer": "Close the window.",
+        "start": 0.0,
+        "end": 11.649999999999999,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "UEP20.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the sandwich.",
+            "Put down the blanket.",
+            "Take the cup/glass/bottle.",
+            "Eat the sandwich."
+        ],
+        "answer": "Take the sandwich.",
+        "start": 0.0,
+        "end": 19.099999999999998,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "9ZQ0R.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Open the closet/cabinet.",
+            "Put down the phone/camera.",
+            "Open the book.",
+            "Open the bag."
+        ],
+        "answer": "Put down the phone/camera.",
+        "start": 8.0,
+        "end": 19.55,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "3MLVF.mp4",
+        "question": "What will the person do next with the cup/glass/bottle?",
+        "candidates": [
+            "Take.",
+            "Eat.",
+            "Put down.",
+            "Wash."
+        ],
+        "answer": "Put down.",
+        "start": 16.1,
+        "end": 29.525,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "84893.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the shoe.",
+            "Lie on the floor.",
+            "Close the box.",
+            "Tidy up the blanket."
+        ],
+        "answer": "Tidy up the blanket.",
+        "start": 0.0,
+        "end": 9.675,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "MDG2T.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Wash the mirror.",
+            "Close the box.",
+            "Put down the towel.",
+            "Open the door."
+        ],
+        "answer": "Put down the towel.",
+        "start": 0.0,
+        "end": 17.3,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "ZAJAJ.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the picture.",
+            "Eat the medicine.",
+            "Tidy up the table.",
+            "Close the closet/cabinet."
+        ],
+        "answer": "Take the picture.",
+        "start": 0.5,
+        "end": 13.55,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "DGPAW.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the cup/glass/bottle.",
+            "Wash the mirror.",
+            "Open the box.",
+            "Open the door."
+        ],
+        "answer": "Open the door.",
+        "start": 0.0,
+        "end": 12.025,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "QPX3S.mp4",
+        "question": "What will the person do next with the food?",
+        "candidates": [
+            "Hold.",
+            "Throw.",
+            "Take.",
+            "Put down."
+        ],
+        "answer": "Put down.",
+        "start": 0.0,
+        "end": 7.65,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "9OMY1.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Close the window.",
+            "Close the refrigerator.",
+            "Sit on the sofa/couch.",
+            "Open the closet/cabinet."
+        ],
+        "answer": "Sit on the sofa/couch.",
+        "start": 0.0,
+        "end": 23.5,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "S673O.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the book.",
+            "Eat the sandwich.",
+            "Lie on the bed.",
+            "Take the box."
+        ],
+        "answer": "Eat the sandwich.",
+        "start": 0.0,
+        "end": 26.15,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "NJANX.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Wash the table.",
+            "Lie on the floor.",
+            "Put down the towel.",
+            "Take the box."
+        ],
+        "answer": "Wash the table.",
+        "start": 3.0,
+        "end": 18.775,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "NKCXF.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Put down the clothes.",
+            "Wash the mirror.",
+            "Take the bag.",
+            "Put down the phone/camera."
+        ],
+        "answer": "Put down the phone/camera.",
+        "start": 0.0,
+        "end": 26.6,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "NVBBD.mp4",
+        "question": "What will the person do next with the shoe?",
+        "candidates": [
+            "Sit on.",
+            "Take.",
+            "Throw.",
+            "Put down."
+        ],
+        "answer": "Put down.",
+        "start": 0.0,
+        "end": 12.25,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "Y79PC.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Take the phone/camera.",
+            "Put down the bag.",
+            "Throw the clothes.",
+            "Open the closet/cabinet."
+        ],
+        "answer": "Throw the clothes.",
+        "start": 0.3,
+        "end": 18.325,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "RKGG5.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Lie on the sofa/couch.",
+            "Close the box.",
+            "Lie on the floor.",
+            "Hold the book."
+        ],
+        "answer": "Lie on the sofa/couch.",
+        "start": 0.0,
+        "end": 14.7,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "ATV2F.mp4",
+        "question": "What will the person do next with the blanket?",
+        "candidates": [
+            "Tidy up.",
+            "Sit on.",
+            "Put down.",
+            "Take."
+        ],
+        "answer": "Put down.",
+        "start": 0.0,
+        "end": 8.95,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "NVBBD.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Lie on the floor.",
+            "Put down the shoe.",
+            "Take the paper/notebook.",
+            "Take the book."
+        ],
+        "answer": "Put down the shoe.",
+        "start": 0.0,
+        "end": 12.25,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "LLOGB.mp4",
+        "question": "What will the person do next?",
+        "candidates": [
+            "Throw the blanket.",
+            "Take the phone/camera.",
+            "Close the door.",
+            "Open the closet/cabinet."
+        ],
+        "answer": "Take the phone/camera.",
+        "start": 0.0,
+        "end": 10.049999999999999,
+        "task_type": "Action Prediction"
+    },
+    {
+        "video": "MVPQF.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The bag.",
+            "The food.",
+            "The laptop.",
+            "The cup/glass/bottle."
+        ],
+        "answer": "The bag.",
+        "start": 0.0,
+        "end": 16.0,
+        "accurate_start": 1.7,
+        "accurate_end": 10.7,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "84893.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The table.",
+            "The blanket.",
+            "The broom.",
+            "The clothes."
+        ],
+        "answer": "The blanket.",
+        "start": 5.8,
+        "end": 20.3,
+        "accurate_start": 7.8,
+        "accurate_end": 15.3,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "O2DXE.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The picture.",
+            "The blanket.",
+            "The phone/camera.",
+            "The laptop."
+        ],
+        "answer": "The blanket.",
+        "start": 0.0,
+        "end": 14.6,
+        "accurate_start": 3.0,
+        "accurate_end": 10.6,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "AMT7R.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The book.",
+            "The broom.",
+            "The bag.",
+            "The picture."
+        ],
+        "answer": "The picture.",
+        "start": 0.0,
+        "end": 15.2,
+        "accurate_start": 4.3,
+        "accurate_end": 12.5,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "7MRKY.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The cup/glass/bottle.",
+            "The broom.",
+            "The pillow.",
+            "The clothes."
+        ],
+        "answer": "The broom.",
+        "start": 2.13003333333333,
+        "end": 36.66996666666667,
+        "accurate_start": 24.8,
+        "accurate_end": 32.8,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "IBX56.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The table.",
+            "The closet/cabinet.",
+            "The clothes.",
+            "The blanket."
+        ],
+        "answer": "The clothes.",
+        "start": 4.699999999999999,
+        "end": 20.1,
+        "accurate_start": 10.7,
+        "accurate_end": 19.1,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "330ZE.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The table.",
+            "The broom.",
+            "The clothes.",
+            "The blanket."
+        ],
+        "answer": "The table.",
+        "start": 0.0,
+        "end": 16.5,
+        "accurate_start": 0.3,
+        "accurate_end": 9.8,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "YUEB9.mp4",
+        "question": "Which object was opened by the person?",
+        "candidates": [
+            "The door.",
+            "The window.",
+            "The laptop.",
+            "The bag."
+        ],
+        "answer": "The bag.",
+        "start": 0.0,
+        "end": 16.1,
+        "accurate_start": 0.0,
+        "accurate_end": 9.1,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "JLGLU.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The phone/camera.",
+            "The clothes.",
+            "The towel.",
+            "The cup/glass/bottle."
+        ],
+        "answer": "The towel.",
+        "start": 14.4,
+        "end": 28.9,
+        "accurate_start": 15.4,
+        "accurate_end": 22.9,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "M704T.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The box.",
+            "The towel.",
+            "The book.",
+            "The sandwich."
+        ],
+        "answer": "The towel.",
+        "start": 11.6,
+        "end": 26.6,
+        "accurate_start": 11.6,
+        "accurate_end": 19.6,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "6ZWSU.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The pillow.",
+            "The food.",
+            "The cup/glass/bottle.",
+            "The shoe."
+        ],
+        "answer": "The shoe.",
+        "start": 4.6,
+        "end": 19.8,
+        "accurate_start": 11.6,
+        "accurate_end": 19.8,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "R1DCJ.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The book.",
+            "The cup/glass/bottle.",
+            "The phone/camera.",
+            "The pillow."
+        ],
+        "answer": "The cup/glass/bottle.",
+        "start": 0.0,
+        "end": 16.4,
+        "accurate_start": 0.8,
+        "accurate_end": 10.2,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "2NV6L.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The picture.",
+            "The cup/glass/bottle.",
+            "The bag.",
+            "The food."
+        ],
+        "answer": "The bag.",
+        "start": 3.5999999999999996,
+        "end": 19.1,
+        "accurate_start": 9.6,
+        "accurate_end": 18.1,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "5V5EL.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The clothes.",
+            "The phone/camera.",
+            "The food.",
+            "The cup/glass/bottle."
+        ],
+        "answer": "The phone/camera.",
+        "start": 1.7000000000000002,
+        "end": 16.0,
+        "accurate_start": 3.7,
+        "accurate_end": 11.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "VS7VS.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The clothes.",
+            "The towel.",
+            "The blanket.",
+            "The book."
+        ],
+        "answer": "The book.",
+        "start": 6.0,
+        "end": 20.1,
+        "accurate_start": 12.0,
+        "accurate_end": 19.1,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "AK9IB.mp4",
+        "question": "Which object was closed by the person?",
+        "candidates": [
+            "The refrigerator.",
+            "The book.",
+            "The laptop.",
+            "The box."
+        ],
+        "answer": "The box.",
+        "start": 6.594541910331387,
+        "end": 34.40545808966861,
+        "accurate_start": 27.4,
+        "accurate_end": 35.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "HCM5Y.mp4",
+        "question": "Which object was sat on by the person?",
+        "candidates": [
+            "The table.",
+            "The floor.",
+            "The bed.",
+            "The sofa/couch."
+        ],
+        "answer": "The floor.",
+        "start": 0.0,
+        "end": 15.4,
+        "accurate_start": 0.0,
+        "accurate_end": 8.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "JY6TC.mp4",
+        "question": "Which object was sat on by the person?",
+        "candidates": [
+            "The sofa/couch.",
+            "The bed.",
+            "The floor.",
+            "The table."
+        ],
+        "answer": "The bed.",
+        "start": 0.0,
+        "end": 15.899999999999999,
+        "accurate_start": 0.8,
+        "accurate_end": 9.7,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "Z7KC1.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The broom.",
+            "The box.",
+            "The bag.",
+            "The paper/notebook."
+        ],
+        "answer": "The broom.",
+        "start": 7.666666666666668,
+        "end": 30.333333333333332,
+        "accurate_start": 22.6,
+        "accurate_end": 31.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "MZJ9D.mp4",
+        "question": "Which object was sat on by the person?",
+        "candidates": [
+            "The bed.",
+            "The sofa/couch.",
+            "The floor.",
+            "The table."
+        ],
+        "answer": "The sofa/couch.",
+        "start": 0.0,
+        "end": 16.9,
+        "accurate_start": 0.0,
+        "accurate_end": 9.9,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "B8PQL.mp4",
+        "question": "Which object was washed by the person?",
+        "candidates": [
+            "The mirror.",
+            "The dish.",
+            "The window.",
+            "The clothes."
+        ],
+        "answer": "The window.",
+        "start": 5.9,
+        "end": 22.3,
+        "accurate_start": 6.9,
+        "accurate_end": 16.3,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "52MV9.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The dish.",
+            "The picture.",
+            "The cup/glass/bottle.",
+            "The food."
+        ],
+        "answer": "The dish.",
+        "start": 13.9,
+        "end": 28.4,
+        "accurate_start": 13.9,
+        "accurate_end": 21.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "M3S4D.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The sandwich.",
+            "The box.",
+            "The clothes.",
+            "The book."
+        ],
+        "answer": "The box.",
+        "start": 0.0,
+        "end": 16.8,
+        "accurate_start": 1.2,
+        "accurate_end": 11.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "XLR4B.mp4",
+        "question": "Which object was sat at by the person?",
+        "candidates": [
+            "The bed.",
+            "The sofa/couch.",
+            "The table.",
+            "The floor."
+        ],
+        "answer": "The table.",
+        "start": 6.539999999999999,
+        "end": 30.36,
+        "accurate_start": 21.8,
+        "accurate_end": 30.9,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "CII5H.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The broom.",
+            "The clothes.",
+            "The blanket.",
+            "The table."
+        ],
+        "answer": "The clothes.",
+        "start": 3.5,
+        "end": 18.7,
+        "accurate_start": 6.5,
+        "accurate_end": 14.7,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "BVN7J.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The dish.",
+            "The pillow.",
+            "The shoe.",
+            "The food."
+        ],
+        "answer": "The dish.",
+        "start": 5.227272727272727,
+        "end": 34.77272727272727,
+        "accurate_start": 26.2,
+        "accurate_end": 36.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "CSYES.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The towel.",
+            "The bag.",
+            "The cup/glass/bottle.",
+            "The clothes."
+        ],
+        "answer": "The towel.",
+        "start": 6.6,
+        "end": 21.0,
+        "accurate_start": 9.6,
+        "accurate_end": 17.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "M5UQR.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The picture.",
+            "The cup/glass/bottle.",
+            "The food.",
+            "The phone/camera."
+        ],
+        "answer": "The phone/camera.",
+        "start": 5.4,
+        "end": 19.7,
+        "accurate_start": 12.4,
+        "accurate_end": 19.7,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "FM078.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The sandwich.",
+            "The laptop.",
+            "The pillow.",
+            "The box."
+        ],
+        "answer": "The box.",
+        "start": 9.3,
+        "end": 23.4,
+        "accurate_start": 12.3,
+        "accurate_end": 19.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "6TNP4.mp4",
+        "question": "Which object was opened by the person?",
+        "candidates": [
+            "The refrigerator.",
+            "The bag.",
+            "The door.",
+            "The closet/cabinet."
+        ],
+        "answer": "The refrigerator.",
+        "start": 0.0,
+        "end": 16.8,
+        "accurate_start": 0.0,
+        "accurate_end": 9.8,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "7UV4O.mp4",
+        "question": "Which object was thrown by the person?",
+        "candidates": [
+            "The shoe.",
+            "The clothes.",
+            "The pillow.",
+            "The food."
+        ],
+        "answer": "The pillow.",
+        "start": 4.7,
+        "end": 20.7,
+        "accurate_start": 4.7,
+        "accurate_end": 13.7,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "8VSV6.mp4",
+        "question": "Which object was sat at by the person?",
+        "candidates": [
+            "The table.",
+            "The floor.",
+            "The bed.",
+            "The sofa/couch."
+        ],
+        "answer": "The table.",
+        "start": 4.2843,
+        "end": 15.7157,
+        "accurate_start": 9.2,
+        "accurate_end": 17.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "MQGVS.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The broom.",
+            "The closet/cabinet.",
+            "The blanket.",
+            "The table."
+        ],
+        "answer": "The blanket.",
+        "start": 2.9000000000000004,
+        "end": 17.0,
+        "accurate_start": 5.9,
+        "accurate_end": 13.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "5CZRC.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The laptop.",
+            "The paper/notebook.",
+            "The cup/glass/bottle.",
+            "The broom."
+        ],
+        "answer": "The cup/glass/bottle.",
+        "start": 0.0,
+        "end": 15.4,
+        "accurate_start": 3.0,
+        "accurate_end": 11.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "5W1Z7.mp4",
+        "question": "Which object was lied on by the person?",
+        "candidates": [
+            "The bed.",
+            "The bag.",
+            "The sofa/couch.",
+            "The floor."
+        ],
+        "answer": "The bed.",
+        "start": 0.0,
+        "end": 8.0,
+        "accurate_start": 0.0,
+        "accurate_end": 8.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "U5T4M.mp4",
+        "question": "Which object was sat at by the person?",
+        "candidates": [
+            "The sofa/couch.",
+            "The floor.",
+            "The table.",
+            "The bed."
+        ],
+        "answer": "The table.",
+        "start": 1.3666666666666671,
+        "end": 19.633333333333333,
+        "accurate_start": 13.4,
+        "accurate_end": 21.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "V115C.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The laptop.",
+            "The cup/glass/bottle.",
+            "The pillow.",
+            "The clothes."
+        ],
+        "answer": "The clothes.",
+        "start": 8.266666666666666,
+        "end": 23.733333333333334,
+        "accurate_start": 17.6,
+        "accurate_end": 25.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "937EW.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The clothes.",
+            "The blanket.",
+            "The closet/cabinet.",
+            "The table."
+        ],
+        "answer": "The closet/cabinet.",
+        "start": 7.243937119835692,
+        "end": 31.756062880164308,
+        "accurate_start": 25.0,
+        "accurate_end": 33.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "H2B7U.mp4",
+        "question": "Which object was washed by the person?",
+        "candidates": [
+            "The table.",
+            "The clothes.",
+            "The window.",
+            "The dish."
+        ],
+        "answer": "The clothes.",
+        "start": 0.0,
+        "end": 15.0,
+        "accurate_start": 0.0,
+        "accurate_end": 8.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "WOD0G.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The dish.",
+            "The food.",
+            "The cup/glass/bottle.",
+            "The towel."
+        ],
+        "answer": "The towel.",
+        "start": 3.8000000000000007,
+        "end": 20.2,
+        "accurate_start": 10.8,
+        "accurate_end": 20.2,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "JL8XT.mp4",
+        "question": "Which object was tidied up by the person?",
+        "candidates": [
+            "The table.",
+            "The towel.",
+            "The broom.",
+            "The closet/cabinet."
+        ],
+        "answer": "The closet/cabinet.",
+        "start": 7.333333333333336,
+        "end": 32.666666666666664,
+        "accurate_start": 24.6,
+        "accurate_end": 34.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "92UB5.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The sandwich.",
+            "The food.",
+            "The pillow.",
+            "The box."
+        ],
+        "answer": "The pillow.",
+        "start": 7.033333333333335,
+        "end": 30.966666666666665,
+        "accurate_start": 24.2,
+        "accurate_end": 32.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "XFRYR.mp4",
+        "question": "Which object was closed by the person?",
+        "candidates": [
+            "The book.",
+            "The window.",
+            "The door.",
+            "The closet/cabinet."
+        ],
+        "answer": "The closet/cabinet.",
+        "start": 5.800000000000001,
+        "end": 20.2,
+        "accurate_start": 8.8,
+        "accurate_end": 16.2,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "JBJGX.mp4",
+        "question": "Which object was closed by the person?",
+        "candidates": [
+            "The door.",
+            "The laptop.",
+            "The closet/cabinet.",
+            "The box."
+        ],
+        "answer": "The laptop.",
+        "start": 11.3,
+        "end": 25.9,
+        "accurate_start": 12.3,
+        "accurate_end": 19.9,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "RG0KS.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The cup/glass/bottle.",
+            "The box.",
+            "The clothes.",
+            "The bag."
+        ],
+        "answer": "The box.",
+        "start": 6.161759403917799,
+        "end": 25.8382405960822,
+        "accurate_start": 17.4,
+        "accurate_end": 27.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "MLS4T.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The book.",
+            "The dish.",
+            "The box.",
+            "The clothes."
+        ],
+        "answer": "The box.",
+        "start": 0.0,
+        "end": 15.3,
+        "accurate_start": 2.1,
+        "accurate_end": 10.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "5NG6Q.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The paper/notebook.",
+            "The dish.",
+            "The broom.",
+            "The book."
+        ],
+        "answer": "The dish.",
+        "start": 6.9,
+        "end": 22.1,
+        "accurate_start": 9.9,
+        "accurate_end": 18.1,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "8DSGI.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The cup/glass/bottle.",
+            "The book.",
+            "The clothes.",
+            "The towel."
+        ],
+        "answer": "The book.",
+        "start": 7.0,
+        "end": 21.4,
+        "accurate_start": 9.0,
+        "accurate_end": 16.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "3DO95.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The pillow.",
+            "The dish.",
+            "The book.",
+            "The sandwich."
+        ],
+        "answer": "The pillow.",
+        "start": 6.6,
+        "end": 23.0,
+        "accurate_start": 13.6,
+        "accurate_end": 23.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "0CG15.mp4",
+        "question": "Which object was closed by the person?",
+        "candidates": [
+            "The door.",
+            "The closet/cabinet.",
+            "The laptop.",
+            "The box."
+        ],
+        "answer": "The closet/cabinet.",
+        "start": 5.166666666666664,
+        "end": 33.13333333333333,
+        "accurate_start": 25.8,
+        "accurate_end": 33.3,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "F6A4W.mp4",
+        "question": "Which object was thrown by the person?",
+        "candidates": [
+            "The shoe.",
+            "The clothes.",
+            "The broom.",
+            "The pillow."
+        ],
+        "answer": "The shoe.",
+        "start": 1.0999999999999996,
+        "end": 16.8,
+        "accurate_start": 7.1,
+        "accurate_end": 15.8,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "HPAYB.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The food.",
+            "The broom.",
+            "The picture.",
+            "The bag."
+        ],
+        "answer": "The bag.",
+        "start": 2.5999999999999996,
+        "end": 17.3,
+        "accurate_start": 5.6,
+        "accurate_end": 13.3,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "HOI88.mp4",
+        "question": "Which object was sat on by the person?",
+        "candidates": [
+            "The table.",
+            "The sofa/couch.",
+            "The bed.",
+            "The floor."
+        ],
+        "answer": "The sofa/couch.",
+        "start": 10.7,
+        "end": 27.6,
+        "accurate_start": 11.7,
+        "accurate_end": 21.6,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "STAFD.mp4",
+        "question": "Which object was eaten by the person?",
+        "candidates": [
+            "The picture.",
+            "The sandwich.",
+            "The bag.",
+            "The medicine."
+        ],
+        "answer": "The sandwich.",
+        "start": 0.0,
+        "end": 15.7,
+        "accurate_start": 3.3,
+        "accurate_end": 12.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "86GSE.mp4",
+        "question": "Which object was sat on by the person?",
+        "candidates": [
+            "The table.",
+            "The sofa/couch.",
+            "The bed.",
+            "The floor."
+        ],
+        "answer": "The sofa/couch.",
+        "start": 7.448133333333335,
+        "end": 18.551866666666665,
+        "accurate_start": 10.1,
+        "accurate_end": 20.0,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "QLAS7.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The laptop.",
+            "The paper/notebook.",
+            "The picture.",
+            "The box."
+        ],
+        "answer": "The picture.",
+        "start": 8.5,
+        "end": 23.6,
+        "accurate_start": 8.5,
+        "accurate_end": 16.6,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "9B93K.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The laptop.",
+            "The broom.",
+            "The sandwich.",
+            "The bag."
+        ],
+        "answer": "The sandwich.",
+        "start": 0.0,
+        "end": 15.4,
+        "accurate_start": 2.0,
+        "accurate_end": 10.4,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "9LHP3.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The food.",
+            "The bag.",
+            "The clothes.",
+            "The shoe."
+        ],
+        "answer": "The shoe.",
+        "start": 2.1,
+        "end": 18.1,
+        "accurate_start": 2.1,
+        "accurate_end": 11.1,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "P4DL9.mp4",
+        "question": "Which object was taken by the person?",
+        "candidates": [
+            "The dish.",
+            "The cup/glass/bottle.",
+            "The blanket.",
+            "The phone/camera."
+        ],
+        "answer": "The phone/camera.",
+        "start": 0.7676000000000016,
+        "end": 32.4324,
+        "accurate_start": 25.0,
+        "accurate_end": 32.2,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "NR9L2.mp4",
+        "question": "Which object was put down by the person?",
+        "candidates": [
+            "The blanket.",
+            "The phone/camera.",
+            "The food.",
+            "The clothes."
+        ],
+        "answer": "The food.",
+        "start": 3.866666666666667,
+        "end": 30.933333333333334,
+        "accurate_start": 18.3,
+        "accurate_end": 27.8,
+        "task_type": "Object Interaction"
+    },
+    {
+        "video": "video_11318.mp4",
+        "question": "In which direction does the red cylinder move in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "The object is stationary.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10924.mp4",
+        "question": "What direction is the green sphere moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "Down and to the right.",
+            "Up and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10643.mp4",
+        "question": "What direction is the cyan sphere moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "The object is stationary.",
+            "Up and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13224.mp4",
+        "question": "Can you identify the direction of the purple sphere's movement in the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the right.",
+            "Up and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13684.mp4",
+        "question": "What direction is the yellow sphere moving in within the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the left.",
+            "Up and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14259.mp4",
+        "question": "Can you identify the direction of the green sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Down and to the left.",
+            "The object is stationary.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14830.mp4",
+        "question": "What direction is the brown sphere moving in within the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the right.",
+            "Down and to the left.",
+            "The object is stationary."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10820.mp4",
+        "question": "Can you identify the direction of the green cylinder's movement in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "Up and to the right.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14449.mp4",
+        "question": "In which direction does the blue sphere move in the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the right.",
+            "Up and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10901.mp4",
+        "question": "What direction is the green sphere moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "The object is stationary.",
+            "Up and to the left.",
+            "Down and to the left."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11975.mp4",
+        "question": "Can you identify the direction of the purple sphere's movement in the video?",
+        "candidates": [
+            "Down and to the left.",
+            "Up and to the right.",
+            "Up and to the left.",
+            "The object is stationary."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12637.mp4",
+        "question": "Can you identify the direction of the gray sphere's movement in the video?",
+        "candidates": [
+            "Up and to the right.",
+            "The object is stationary.",
+            "Up and to the left.",
+            "Down and to the left."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11574.mp4",
+        "question": "Can you identify the direction of the purple cube's movement in the video?",
+        "candidates": [
+            "Up and to the right.",
+            "Down and to the left.",
+            "Down and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14844.mp4",
+        "question": "What direction is the green sphere moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "Down and to the right.",
+            "The object is stationary.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13366.mp4",
+        "question": "Can you identify the direction of the red cylinder's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Down and to the left.",
+            "Up and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12645.mp4",
+        "question": "Can you identify the direction of the red sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Up and to the left.",
+            "Up and to the right.",
+            "The object is stationary."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11140.mp4",
+        "question": "Can you identify the direction of the brown sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Up and to the left.",
+            "The object is stationary.",
+            "Down and to the left."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11859.mp4",
+        "question": "In which direction does the gray sphere move in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Up and to the right.",
+            "Down and to the right.",
+            "Down and to the left."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11541.mp4",
+        "question": "What direction is the yellow sphere moving in within the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Up and to the right.",
+            "The object is stationary.",
+            "Down and to the right."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11982.mp4",
+        "question": "What direction is the brown cube moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "The object is stationary.",
+            "Down and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11088.mp4",
+        "question": "Can you identify the direction of the cyan cylinder's movement in the video?",
+        "candidates": [
+            "Up and to the right.",
+            "The object is stationary.",
+            "Down and to the left.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11981.mp4",
+        "question": "What direction is the green sphere moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "Up and to the left.",
+            "Down and to the right.",
+            "The object is stationary."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12458.mp4",
+        "question": "Can you identify the direction of the blue sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Down and to the left.",
+            "The object is stationary.",
+            "Up and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11916.mp4",
+        "question": "Can you identify the direction of the red sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Down and to the left.",
+            "Up and to the left.",
+            "The object is stationary."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13831.mp4",
+        "question": "Can you identify the direction of the yellow cube's movement in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "The object is stationary.",
+            "Down and to the right.",
+            "Down and to the left."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11458.mp4",
+        "question": "In which direction does the brown sphere move in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "Down and to the right.",
+            "Up and to the right."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11817.mp4",
+        "question": "In which direction does the red cube move in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "Down and to the right.",
+            "The object is stationary."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11476.mp4",
+        "question": "What direction is the yellow cylinder moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "Down and to the left.",
+            "The object is stationary.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11560.mp4",
+        "question": "Can you identify the direction of the blue sphere's movement in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the right.",
+            "The object is stationary.",
+            "Down and to the left."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10744.mp4",
+        "question": "What direction is the blue cube moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "Down and to the left.",
+            "Up and to the left.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10708.mp4",
+        "question": "What direction is the red cylinder moving in within the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Up and to the right.",
+            "Down and to the left.",
+            "The object is stationary."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11524.mp4",
+        "question": "Can you identify the direction of the gray cube's movement in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "Down and to the right.",
+            "The object is stationary."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14366.mp4",
+        "question": "What direction is the gray cylinder moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "Up and to the left.",
+            "The object is stationary.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10094.mp4",
+        "question": "What direction is the red cube moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "The object is stationary.",
+            "Down and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13235.mp4",
+        "question": "What direction is the purple cube moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "The object is stationary.",
+            "Down and to the right.",
+            "Down and to the left."
+        ],
+        "answer": "Down and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11537.mp4",
+        "question": "What direction is the yellow sphere moving in within the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the left.",
+            "Up and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11446.mp4",
+        "question": "In which direction does the gray sphere move in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Up and to the right.",
+            "The object is stationary.",
+            "Down and to the right."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14477.mp4",
+        "question": "In which direction does the green sphere move in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Up and to the left.",
+            "Down and to the left.",
+            "The object is stationary."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14957.mp4",
+        "question": "What direction is the brown sphere moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "The object is stationary.",
+            "Down and to the left.",
+            "Down and to the right."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11150.mp4",
+        "question": "Can you identify the direction of the purple sphere's movement in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "Up and to the right.",
+            "Down and to the right."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14153.mp4",
+        "question": "What direction is the cyan sphere moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "Up and to the left.",
+            "Up and to the right.",
+            "The object is stationary."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12177.mp4",
+        "question": "Can you identify the direction of the yellow sphere's movement in the video?",
+        "candidates": [
+            "Down and to the left.",
+            "The object is stationary.",
+            "Up and to the right.",
+            "Down and to the right."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10572.mp4",
+        "question": "In which direction does the blue sphere move in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "The object is stationary.",
+            "Up and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12151.mp4",
+        "question": "What direction is the red sphere moving in within the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the left.",
+            "Down and to the right.",
+            "Up and to the right."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10675.mp4",
+        "question": "Can you identify the direction of the brown sphere's movement in the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the right.",
+            "Down and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10908.mp4",
+        "question": "What direction is the cyan cylinder moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "Up and to the left.",
+            "Up and to the right.",
+            "Down and to the right."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12055.mp4",
+        "question": "Can you identify the direction of the blue sphere's movement in the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Up and to the left.",
+            "Up and to the right.",
+            "Down and to the left."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13860.mp4",
+        "question": "Can you identify the direction of the red sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "The object is stationary.",
+            "Down and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12838.mp4",
+        "question": "What direction is the brown cube moving in within the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the left.",
+            "Down and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_11444.mp4",
+        "question": "What direction is the brown sphere moving in within the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Down and to the right.",
+            "Down and to the left.",
+            "Up and to the left."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12295.mp4",
+        "question": "What direction is the gray sphere moving in within the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Up and to the right.",
+            "The object is stationary.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14913.mp4",
+        "question": "In which direction does the brown sphere move in the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Up and to the right.",
+            "Down and to the left.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13833.mp4",
+        "question": "Can you identify the direction of the purple sphere's movement in the video?",
+        "candidates": [
+            "Up and to the right.",
+            "The object is stationary.",
+            "Down and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13964.mp4",
+        "question": "What direction is the brown sphere moving in within the video?",
+        "candidates": [
+            "Down and to the left.",
+            "Up and to the right.",
+            "The object is stationary.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12197.mp4",
+        "question": "What direction is the red sphere moving in within the video?",
+        "candidates": [
+            "Up and to the left.",
+            "The object is stationary.",
+            "Up and to the right.",
+            "Down and to the left."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14718.mp4",
+        "question": "Can you identify the direction of the red sphere's movement in the video?",
+        "candidates": [
+            "Down and to the right.",
+            "Down and to the left.",
+            "Up and to the right.",
+            "Up and to the left."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13332.mp4",
+        "question": "What direction is the red sphere moving in within the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the right.",
+            "Down and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Up and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_12516.mp4",
+        "question": "What direction is the blue sphere moving in within the video?",
+        "candidates": [
+            "Up and to the left.",
+            "Down and to the left.",
+            "Up and to the right.",
+            "The object is stationary."
+        ],
+        "answer": "The object is stationary.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_14126.mp4",
+        "question": "In which direction does the gray sphere move in the video?",
+        "candidates": [
+            "The object is stationary.",
+            "Up and to the left.",
+            "Down and to the left.",
+            "Up and to the right."
+        ],
+        "answer": "Up and to the right.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_10995.mp4",
+        "question": "What direction is the red cylinder moving in within the video?",
+        "candidates": [
+            "Up and to the right.",
+            "Down and to the right.",
+            "Up and to the left.",
+            "Down and to the left."
+        ],
+        "answer": "Down and to the left.",
+        "task_type": "Moving Direction"
+    },
+    {
+        "video": "video_13429.mp4",
+        "question": "How many moving metal objects are there?",
+        "candidates": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10030.mp4",
+        "question": "How many moving cyan objects are there?",
+        "candidates": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10983.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "0",
+            "2",
+            "1",
+            "3"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11004.mp4",
+        "question": "How many spheres enter the scene?",
+        "candidates": [
+            "3",
+            "0",
+            "1",
+            "2"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12697.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "1",
+            "0",
+            "3",
+            "2"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12311.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "1",
+            "3",
+            "0",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12190.mp4",
+        "question": "How many rubber spheres enter the scene?",
+        "candidates": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10878.mp4",
+        "question": "How many metal cubes enter the scene?",
+        "candidates": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14661.mp4",
+        "question": "How many moving rubber objects are there when the video ends?",
+        "candidates": [
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12108.mp4",
+        "question": "How many moving objects are there when the video ends?",
+        "candidates": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11834.mp4",
+        "question": "How many rubber objects are moving?",
+        "candidates": [
+            "2",
+            "0",
+            "1",
+            "3"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10146.mp4",
+        "question": "How many yellow objects enter the scene?",
+        "candidates": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11086.mp4",
+        "question": "How many collisions happen?",
+        "candidates": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14618.mp4",
+        "question": "How many collisions happen?",
+        "candidates": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12713.mp4",
+        "question": "How many stationary objects are there when the video ends?",
+        "candidates": [
+            "7",
+            "4",
+            "6",
+            "5"
+        ],
+        "answer": "4",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12851.mp4",
+        "question": "How many gray objects are moving when the video ends?",
+        "candidates": [
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10751.mp4",
+        "question": "How many objects are stationary?",
+        "candidates": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14090.mp4",
+        "question": "How many stationary metal objects are there when the video ends?",
+        "candidates": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11958.mp4",
+        "question": "How many objects are stationary when the video ends?",
+        "candidates": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11081.mp4",
+        "question": "How many stationary yellow objects are there when the video begins?",
+        "candidates": [
+            "0",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10657.mp4",
+        "question": "How many metal objects are moving when the video ends?",
+        "candidates": [
+            "1",
+            "3",
+            "4",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11763.mp4",
+        "question": "How many moving rubber objects are there?",
+        "candidates": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12738.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "1",
+            "3",
+            "2",
+            "0"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12769.mp4",
+        "question": "How many spheres enter the scene?",
+        "candidates": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11712.mp4",
+        "question": "How many collisions happen?",
+        "candidates": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12961.mp4",
+        "question": "How many rubber objects are moving?",
+        "candidates": [
+            "0",
+            "1",
+            "3",
+            "2"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12184.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "2",
+            "0",
+            "3",
+            "1"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12518.mp4",
+        "question": "How many objects are moving?",
+        "candidates": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "answer": "4",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14273.mp4",
+        "question": "How many moving objects are there when the video ends?",
+        "candidates": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11403.mp4",
+        "question": "How many yellow objects are moving?",
+        "candidates": [
+            "3",
+            "2",
+            "1",
+            "0"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_13795.mp4",
+        "question": "How many moving objects are there when the video ends?",
+        "candidates": [
+            "3",
+            "4",
+            "1",
+            "2"
+        ],
+        "answer": "4",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11926.mp4",
+        "question": "How many moving metal objects are there?",
+        "candidates": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10947.mp4",
+        "question": "How many moving cylinders are there?",
+        "candidates": [
+            "3",
+            "0",
+            "2",
+            "1"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14188.mp4",
+        "question": "How many collisions happen?",
+        "candidates": [
+            "5",
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10622.mp4",
+        "question": "How many rubber objects are moving when the video ends?",
+        "candidates": [
+            "3",
+            "2",
+            "1",
+            "0"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14869.mp4",
+        "question": "How many moving rubber objects are there?",
+        "candidates": [
+            "1",
+            "3",
+            "4",
+            "2"
+        ],
+        "answer": "4",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_13525.mp4",
+        "question": "How many purple spheres exit the scene?",
+        "candidates": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12889.mp4",
+        "question": "How many gray spheres enter the scene?",
+        "candidates": [
+            "5",
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10955.mp4",
+        "question": "How many moving purple objects are there?",
+        "candidates": [
+            "6",
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12846.mp4",
+        "question": "How many objects are moving when the video ends?",
+        "candidates": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_13071.mp4",
+        "question": "How many cylinders are stationary when the video ends?",
+        "candidates": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12152.mp4",
+        "question": "How many red objects are moving?",
+        "candidates": [
+            "3",
+            "1",
+            "0",
+            "2"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12027.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12512.mp4",
+        "question": "How many purple objects are stationary?",
+        "candidates": [
+            "1",
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10783.mp4",
+        "question": "How many moving objects are there when the video ends?",
+        "candidates": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12177.mp4",
+        "question": "How many cyan objects are moving?",
+        "candidates": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12484.mp4",
+        "question": "How many moving rubber objects are there?",
+        "candidates": [
+            "3",
+            "4",
+            "2",
+            "5"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14879.mp4",
+        "question": "How many metal objects are stationary when the video ends?",
+        "candidates": [
+            "0",
+            "1",
+            "3",
+            "2"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12821.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "3",
+            "1",
+            "0",
+            "2"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14462.mp4",
+        "question": "How many objects enter the scene?",
+        "candidates": [
+            "5",
+            "3",
+            "6",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_11032.mp4",
+        "question": "How many moving brown objects are there?",
+        "candidates": [
+            "2",
+            "3",
+            "0",
+            "1"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12247.mp4",
+        "question": "How many objects are stationary when the video begins?",
+        "candidates": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_13504.mp4",
+        "question": "How many purple cylinders enter the scene?",
+        "candidates": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10041.mp4",
+        "question": "How many moving objects are there when the video ends?",
+        "candidates": [
+            "3",
+            "0",
+            "2",
+            "1"
+        ],
+        "answer": "1",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12897.mp4",
+        "question": "How many brown objects enter the scene?",
+        "candidates": [
+            "0",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": "2",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12675.mp4",
+        "question": "How many cubes enter the scene?",
+        "candidates": [
+            "1",
+            "2",
+            "3",
+            "0"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_14257.mp4",
+        "question": "How many yellow objects exit the scene?",
+        "candidates": [
+            "0",
+            "2",
+            "1",
+            "3"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12485.mp4",
+        "question": "How many moving metal objects are there when the video ends?",
+        "candidates": [
+            "2",
+            "0",
+            "1",
+            "3"
+        ],
+        "answer": "3",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_12967.mp4",
+        "question": "How many moving spheres are there when the video ends?",
+        "candidates": [
+            "0",
+            "1",
+            "3",
+            "2"
+        ],
+        "answer": "0",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_10481.mp4",
+        "question": "How many moving objects are there when the video ends?",
+        "candidates": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "4",
+        "task_type": "Moving Count"
+    },
+    {
+        "video": "video_1925.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_6613.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_5658.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "1",
+            "6"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_560.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_4598.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "4",
+            "3",
+            "9"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9041.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_10829.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_8516.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_8420.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "5",
+            "6"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_3782.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1717.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "5",
+            "2",
+            "3"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_10849.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "5",
+            "3",
+            "6"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_2242.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9714.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1538.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "3",
+            "4",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9838.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1803.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "4",
+            "5"
+        ],
+        "answer": "7",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_3897.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "6",
+            "2",
+            "3"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_11243.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "9",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1826.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_4908.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "6",
+            "8",
+            "5"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_2894.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9673.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_3764.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_8082.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "6",
+            "5"
+        ],
+        "answer": "7",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_593.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "4",
+            "7",
+            "6"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9087.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "1",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_7308.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "5",
+            "6",
+            "8"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_10021.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_7233.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "8",
+            "7",
+            "6"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1577.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "8",
+            "6",
+            "7"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_4381.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "6",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_7958.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "1",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_8169.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_916.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_2573.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "7",
+            "3",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_8512.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "3",
+            "8",
+            "7"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_481.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "6",
+            "8"
+        ],
+        "answer": "8",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_2112.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "3",
+            "6"
+        ],
+        "answer": "7",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9471.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "3",
+            "2",
+            "4"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_6758.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "5",
+            "6"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_3603.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "7",
+            "5",
+            "6"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1206.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_5181.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "3",
+            "4",
+            "2"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_4041.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "4",
+            "2",
+            "7"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9026.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "3",
+            "7",
+            "4"
+        ],
+        "answer": "7",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_3441.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9491.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "7",
+            "3",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_5584.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_6507.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "3",
+            "2",
+            "9"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_6116.mp4",
+        "question": "How many times did the person show objects to the camera?",
+        "candidates": [
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "6",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_1153.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9068.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "2",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_9989.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": "4",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_5558.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "4",
+            "3",
+            "5"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_290.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_380.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_6119.mp4",
+        "question": "How many times did the person launch objects on the table?",
+        "candidates": [
+            "3",
+            "9",
+            "4"
+        ],
+        "answer": "9",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_2958.mp4",
+        "question": "The person makes sets of repeated actions. How many distinct repeated actions did the person do?",
+        "candidates": [
+            "3",
+            "4",
+            "2"
+        ],
+        "answer": "3",
+        "task_type": "Action Count"
+    },
+    {
+        "video": "video_7376.mp4",
+        "question": "How many times did the person launch the object on the slanted plane?",
+        "candidates": [
+            "3",
+            "6",
+            "2"
+        ],
+        "answer": "2",
+        "task_type": "Action Count"
+    }
+]

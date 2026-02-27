@@ -1,0 +1,30 @@
+# ==========================================
+# A-MoE-VLM Project Git Ignore Rules
+# ==========================================
+
+# 1. 屏蔽 Python 运行产生的垃圾文件
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# 2. 屏蔽所有庞大的深度学习模型权重 (极度重要！)
+*.pt
+*.pth
+*.bin
+*.msgpack
+*.h5
+
+# 4. 屏蔽大型视频文件和临时缓存
+*.mp4
+*.avi
+*.mkv
+*.pkl
+results/frames_cache_dir_new/
+
+# 5. 屏蔽系统环境文件
+.env
+.venv
+env/
+venv/
+.DS_Store
