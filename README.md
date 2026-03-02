@@ -104,6 +104,18 @@ python inference/eval_sft.py \
     --max_new_tokens 1024
 ```
 
+### Evaluate Full A-MoE Framework (~60.8% SOTA)
+To reproduce our peak performance on complex causal reasoning, this script activates the **Consensus & Hostile Verification (CAHV)** routing protocol. It dynamically instantiates the Generalist, Navigator, and Observer experts using the shared 3B core, escalating high-entropy deadlocks to the 32B-INT4 Arbiter.
+
+```bash
+python inference/eval_amoe_routing.py \
+    --base_model_path "Qwen/Qwen2.5-VL-3B-Instruct" \
+    --arbiter_path "Qwen/Qwen2.5-VL-32B-Instruct-AWQ" \
+    --input_file "evaluation/egoschema_72B-Int4_analysis.jsonl" \
+    --output_file "evaluation/amoe_egoschema_predictions.jsonl" \
+    --num_experts 3
+```
+
 ---
 
 ## 🧠 4. Teacher Annotations & Logic-V Reward
