@@ -45,7 +45,7 @@ A-MoE-VLM/
 Clone this repository and set up the environment. We highly recommend using Python 3.10+ and CUDA 11.8+.
 
 ```bash
-git clone [https://github.com/bitxige/A-MoE-VLM.git](https://github.com/bitxige/A-MoE-VLM.git)
+git clone [https://github.com/](https://github.com/)[ANONYMIZED]/A-MoE-VLM.git
 cd A-MoE-VLM
 ```
 
@@ -72,7 +72,7 @@ Download the `adapter_model.safetensors` and place it in the `checkpoint/checkpo
 ```bash
 mkdir -p checkpoint/checkpoint-5600
 # Download the core weights (228MB)
-wget [https://github.com/bitxige/A-MoE-VLM/releases/download/v1.0/adapter_model.safetensors](https://github.com/bitxige/A-MoE-VLM/releases/download/v1.0/adapter_model.safetensors) -O checkpoint/checkpoint-5600/adapter_model.safetensors
+wget [https://github.com/](https://github.com/)[ANONYMIZED]/A-MoE-VLM/releases/download/v1.0/adapter_model.safetensors -O checkpoint/checkpoint-5600/adapter_model.safetensors
 ```
 
 > ⚠️ **Note:** Ensure that the accompanying `adapter_config.json` is also placed in the same directory. If your local folder name differs, please adjust the paths accordingly.
@@ -100,7 +100,7 @@ python inference/eval_rl_single_pass.py \
 For performance comparison against the standard supervised fine-tuned model:
 
 ```bash
-python inference/eval_sft.py \
+python inference/eval_sft_egoschema.py \
     --base_model_path "Qwen/Qwen2.5-VL-3B-Instruct" \
     --lora_path "checkpoint/Qwen2.5-3B-Video-SFT/checkpoint-504" \
     --input_file "evaluation/egoschema_72B-Int4_analysis.jsonl" \
@@ -109,15 +109,17 @@ python inference/eval_sft.py \
 ```
 
 ### Evaluate Full A-MoE Framework (~60.8% SOTA)
-To reproduce our peak performance on complex causal reasoning, this script activates the **Consensus & Hostile Verification (CAHV)** routing protocol. It dynamically instantiates the Generalist, Navigator, and Observer experts using the shared 3B core, escalating high-entropy deadlocks to the 32B-INT4 Arbiter.
+To reproduce our peak performance on complex causal reasoning, this script activates the **Consensus & Hostile Verification (CAHV)** routing protocol. It dynamically instantiates the Generalist, Navigator, and Observer experts using the shared 3B core, escalating high-entropy deadlocks to the 32B-INT4 Arbiter via API.
 
 ```bash
-python inference/eval_amoe_routing.py \
+python inference/eval_amoe.py \
     --base_model_path "Qwen/Qwen2.5-VL-3B-Instruct" \
-    --arbiter_path "Qwen/Qwen2.5-VL-32B-Instruct-AWQ" \
+    --model_path "checkpoint/checkpoint-5600" \
     --input_file "evaluation/egoschema_72B-Int4_analysis.jsonl" \
     --output_file "evaluation/amoe_egoschema_predictions.jsonl" \
-    --num_experts 3
+    --n_votes 5 \
+    --arbiter_api_url "http://localhost:8000/v1/chat/completions" \
+    --arbiter_model_name "Qwen/Qwen2.5-32B-Instruct-AWQ"
 ```
 
 ---
@@ -131,7 +133,7 @@ This script utilizes an ORB-based homography extraction pipeline to filter redun
 
 ```bash
 # Example usage for extracting teacher logs
-python scripts/analyze_72b.py \
+python scripts/analyze_egoschema_pipeline.py \
     --model_path "Qwen/Qwen2.5-VL-72B-Instruct-AWQ" \
     --video_dir "dataset/videos" \
     --input_json "dataset/egoschema.json" \
