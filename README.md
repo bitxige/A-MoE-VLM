@@ -90,7 +90,7 @@ Runs the single generalist expert trained via the Logic-V reward pipeline.
 
 ```bash
 python inference/eval_rl_single_pass.py \
-    --base_model_path "Qwen/Qwen2.5-VL-3B-Instruct" \
+    --base_model_path "Qwen/Qwen2.5-3B-Instruct" \
     --model_path "checkpoint/checkpoint-5600" \
     --input_file "evaluation/egoschema_72B-Int4_analysis.jsonl" \
     --output_file "evaluation/RL-egoschema_predictions.jsonl"
@@ -101,7 +101,7 @@ For performance comparison against the standard supervised fine-tuned model:
 
 ```bash
 python inference/eval_sft_egoschema.py \
-    --base_model_path "Qwen/Qwen2.5-VL-3B-Instruct" \
+    --base_model_path "Qwen/Qwen2.5-3B-Instruct" \
     --lora_path "checkpoint/Qwen2.5-3B-Video-SFT/checkpoint-504" \
     --input_file "evaluation/egoschema_72B-Int4_analysis.jsonl" \
     --output_file "evaluation/sft_egoschema_predictions.jsonl" \
@@ -113,7 +113,7 @@ To reproduce our peak performance on complex causal reasoning, this script activ
 
 ```bash
 python inference/eval_amoe.py \
-    --base_model_path "Qwen/Qwen2.5-VL-3B-Instruct" \
+    --base_model_path "Qwen/Qwen2.5-3B-Instruct" \
     --model_path "checkpoint/checkpoint-5600" \
     --input_file "evaluation/egoschema_72B-Int4_analysis.jsonl" \
     --output_file "evaluation/amoe_egoschema_predictions.jsonl" \
