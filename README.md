@@ -61,8 +61,8 @@ AVF/
 Clone this repository and set up the environment. We highly recommend using **Python 3.10+** and **CUDA 11.8+**.
 
 ```bash
-git clone https://github.com/[ANONYMIZED]/AVF.git
-cd AVF
+git clone https://github.com/bitxige/Logic-V-Reasoner.git
+cd Logic-V-Reasoner
 ```
 
 Install the core dependencies (including `ms-swift`, `DeepSpeed`, and `qwen-vl-utils`):
@@ -83,7 +83,7 @@ Download the `adapter_model.safetensors` and place it in the `checkpoint/checkpo
 mkdir -p checkpoint/checkpoint-5600
 
 # Download the core weights (228MB)
-wget https://github.com/[ANONYMIZED]/AVF/releases/download/v1.0/adapter_model.safetensors \
+wget https://github.com/bitxige/Logic-V-Reasoner/releases/download/v1.0/adapter_model.safetensors \
   -O checkpoint/checkpoint-5600/adapter_model.safetensors
 ```
 
