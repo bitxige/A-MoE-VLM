@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Consistency Reward Plugin for GRPO (A-MoE Logic-V)
+Consistency Reward Plugin for GRPO (AVF Logic-V)
 This module acts as the client side of the Reward Server.
 It enforces a "Blind Grading" protocol: the Arbiter receives ONLY the student's 
 <think> process (without the final answer). The reward is then scaled dynamically 
