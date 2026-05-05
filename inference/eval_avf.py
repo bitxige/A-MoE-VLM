@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-A-MoE (Agentic Mixture-of-Experts) Inference Script
+AVF (Agentic Verification Framework) Inference Script
 This script implements the Consensus & Hostile Verification (CAHV) mechanism 
 for evaluating on the EgoSchema benchmark.
 """
@@ -50,7 +50,7 @@ def set_deterministic(seed=42):
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s | %(levelname)s | %(message)s',
-    handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler("inference_amoe.log", mode='w', encoding='utf-8')]
+    handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler("inference_avf.log", mode='w', encoding='utf-8')]
 )
 log = logging.getLogger(__name__)
 
@@ -516,7 +516,7 @@ def run_cahv(model, tokenizer, full_item, budget_manager, args, pid):
 # 4. Script Execution
 # ==========================================
 def main():
-    parser = argparse.ArgumentParser(description="A-MoE Inference Framework for Visual Reasoning")
+    parser = argparse.ArgumentParser(description="AVF Inference Framework for Visual Reasoning")
     parser.add_argument("--base_model_path", type=str, required=True, help="Path to the lightweight base model (e.g., Qwen-3B)")
     parser.add_argument("--model_path", type=str, required=True, help="Path to the RL LoRA adapter")
     parser.add_argument("--input_file", type=str, required=True, help="Path to the evaluation dataset (JSONL)")
@@ -527,7 +527,7 @@ def main():
     parser.add_argument("--arbiter_model_name", type=str, default="Qwen/Qwen2.5-32B-Instruct-AWQ", help="Model name registered in the Arbiter API")
     args = parser.parse_args()
 
-    log.info(f"🚀 Initializing A-MoE Framework | Seed: {args.seed}")
+    log.info(f"🚀 Initializing AVF Framework | Seed: {args.seed}")
     set_deterministic(args.seed)
     
     # Load Models
@@ -557,7 +557,7 @@ def main():
     correct = 0
     total = 0
 
-    for item in tqdm(data, desc="A-MoE Eval"):
+    for item in tqdm(data, desc="AVF Eval"):
         pid = str(item.get('id') or item.get('Question_id'))
         if pid in processed: continue
         
