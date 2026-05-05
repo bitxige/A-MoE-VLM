@@ -9,7 +9,7 @@
 [![Model](https://img.shields.io/badge/Model-Qwen2.5--3B-green)](https://huggingface.co/Qwen)
 [![Framework](https://img.shields.io/badge/Framework-ms--swift-orange)](https://github.com/modelscope/swift)
 
-*A decoupled, language-only reasoning framework that enables a tiny 3B model to rival 7B+ end-to-end Vision-Language Models on complex causal tasks.*
+*A decoupled, language-only reasoning framework that enables a tiny 3B model to outperform 7B-class LLMs and rival larger end-to-end VLMs on complex causal tasks.*
 
 [Key Results](#-key-results) • [Installation](#-1-quick-start--installation) • [Weights](#-2-download-pre-trained-weights) • [Evaluation](#-3-reproducing-evaluations-inference) 
 
