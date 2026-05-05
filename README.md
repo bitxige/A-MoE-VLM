@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 AVF: Logic-V Reasoning Framework
+# 🧠 Logic-V Reasoning Framework
 
 **Logic-Aligned Reinforcement Knowledge Alignment with Blind-Review Verification and Multi-Expert Consensus for Compact Reasoning Models**
 
