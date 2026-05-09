@@ -2,9 +2,9 @@
 
 # 🧠 Logic-V Reasoning Framework
 
-**Logic-Aligned Reinforcement Knowledge Alignment with Blind-Review Verification and Multi-Expert Consensus for Compact Reasoning Models**
+**Logic-Aligned Reinforcement Alignment with Blind-Review Verification and Multi-Expert Consensus for Compact Hybrid Reasoning Systems**
 
-[![Paper](https://img.shields.io/badge/Paper-Under_Review_@_KBS-b31b1b.svg)](#)
+[![Paper](https://img.shields.io/badge/Paper-Under_Review_@_ASOC-b31b1b.svg)](#)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Model](https://img.shields.io/badge/Model-Qwen2.5--3B-green)](https://huggingface.co/Qwen)
 [![Framework](https://img.shields.io/badge/Framework-ms--swift-orange)](https://github.com/modelscope/swift)
@@ -29,7 +29,7 @@ Performance on the EgoSchema causal video reasoning benchmark (500-question subs
 | Reasoning Method | Accuracy | Parameters | Modality |
 | :--- | :---: | :---: | :---: |
 | **Single RL Expert (Ours)** | **59.0%** | 3B | Text Logs |
-| **Full AVF Framework (CAHV)** | **60.8%** | 3B | Text Logs |
+| **Full AVF Framework (CAHV)** | **59.4%** | 3B | Text Logs |
 
 <details>
 <summary><b>🔍 Transparency Note: Why we open-source raw predictions (Click to expand)</b></summary>
@@ -50,7 +50,7 @@ AVF/
 ├── checkpoint/          # Pre-trained LoRA weights (Download required)
 ├── dataset/             # Subsets and JSON annotations for evaluation
 ├── evaluation/          # Raw prediction logs & 72B-Teacher analysis texts
-├── inference/           # Scripts for reproducing the 59.0% & 60.8% accuracy
+├── inference/           # Scripts for reproducing the 59.0% & 59.4% accuracy
 └── scripts/             # RL launcher, Logic-V rewards, and 72B analysis tools
 ```
 
@@ -61,7 +61,7 @@ AVF/
 Clone this repository and set up the environment. We highly recommend using **Python 3.10+** and **CUDA 11.8+**.
 
 ```bash
-git clone https://github.com/bitxige/Logic-V-Reasoner.git
+git clone [https://github.com/bitxige/Logic-V-Reasoner.git](https://github.com/bitxige/Logic-V-Reasoner.git)
 cd Logic-V-Reasoner
 ```
 
@@ -83,7 +83,7 @@ Download the `adapter_model.safetensors` and place it in the `checkpoint/checkpo
 mkdir -p checkpoint/checkpoint-5600
 
 # Download the core weights (228MB)
-wget https://github.com/bitxige/Logic-V-Reasoner/releases/download/v1.0/adapter_model.safetensors \
+wget [https://github.com/bitxige/Logic-V-Reasoner/releases/download/v1.0/adapter_model.safetensors](https://github.com/bitxige/Logic-V-Reasoner/releases/download/v1.0/adapter_model.safetensors) \
   -O checkpoint/checkpoint-5600/adapter_model.safetensors
 ```
 
@@ -122,7 +122,7 @@ python inference/eval_sft_egoschema.py \
     --max_new_tokens 1024
 ```
 
-### C. Evaluate Full AVF Framework (~60.8% SOTA)
+### C. Evaluate Full AVF Framework (~59.4% SOTA)
 To reproduce our peak performance, this script activates the **Consensus & Hostile Verification (CAHV)** routing protocol. It dynamically instantiates the *Generalist, Navigator, and Observer* experts using the shared 3B core, escalating high-entropy deadlocks to the 32B-INT4 Arbiter via API.
 
 ```bash
