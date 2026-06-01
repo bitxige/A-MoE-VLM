@@ -2,7 +2,7 @@
 
 # 🧠 Logic-V Reasoning Framework
 
-**Hesitancy-Aware Multi-Expert Consensus with Reinforcement Alignment for Compact Hybrid Intelligent Reasoning**
+**Teacher-Free Reinforcement Alignment with Uncertainty-Gated Multi-Expert Verification for Compact Neural Reasoning**
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Model](https://img.shields.io/badge/Model-Qwen2.5--3B-green)](https://huggingface.co/Qwen)
@@ -30,6 +30,9 @@ Performance on the EgoSchema causal video reasoning benchmark (500-question subs
 | :--- | :---: | :---: | :---: |
 | **Single RL Expert (Ours)** | **59.0%** | 3B | Text Logs |
 | **Full AVF Framework (CAHV)** | **59.4%** | 3B | Text Logs |
+
+> [!NOTE]
+> EgoSchema is used in our paper for **decoupling and upper-bound analysis** under identical 72B-INT4 evidence logs. The **main embodied benchmarks** (training source + primary evaluation) are **VSI-Bench + UrbanVideo-Bench**; see Table 1 of the paper for the full embodied spatial reasoning results.
 
 <details>
 <summary><b>🔍 Transparency Note: Why we open-source raw predictions (Click to expand)</b></summary>
@@ -81,11 +84,11 @@ pip install -r requirements.txt
 
 | Benchmark | Used For | Official Source |
 | :--- | :--- | :--- |
-| EgoSchema | Causal video reasoning (main) | https://github.com/egoschema/EgoSchema |
-| VSI-Bench | Embodied spatial reasoning | https://github.com/vision-x-nyu/thinking-in-space |
-| UrbanVideo-Bench | Embodied spatial reasoning | https://github.com/EmbodiedCity/UrbanVideo-Bench |
-| MVBench | Short-horizon recognition | https://github.com/OpenGVLab/Ask-Anything |
-| Video-MME | Long-form video QA | https://github.com/BradyFU/Video-MME |
+| VSI-Bench | Embodied spatial reasoning (main) | https://github.com/vision-x-nyu/thinking-in-space |
+| UrbanVideo-Bench | Embodied spatial reasoning (main) | https://github.com/EmbodiedCity/UrbanVideo-Bench |
+| EgoSchema | Causal video reasoning (decoupling / upper-bound analysis) | https://github.com/egoschema/EgoSchema |
+| MVBench | Short-horizon recognition (OOD) | https://github.com/OpenGVLab/Ask-Anything |
+| Video-MME | Long-form video QA (OOD) | https://github.com/BradyFU/Video-MME |
 | MedQA-USMLE | Cross-domain medical pilot | https://github.com/jind11/MedQA |
 
 ### What We Do Provide
